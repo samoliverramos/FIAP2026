@@ -42,8 +42,8 @@ Objetivos:
 - Usar o modelo para estimar quando precisamos escalar servidores (AWS Auto Scaling).
 
 Notebook:
-
 [▶ Abrir Aula 1 – App de Corridas no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula01_app_corridas.ipynb)
+
 
 ### Aula 2 – Perceptron (Primeiro neurônio artificial)
 
