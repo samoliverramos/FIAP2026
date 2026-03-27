@@ -34,7 +34,11 @@ Instrutor: **Samir Ramos**
 
 ## 📚 Aulas (Notebooks)
 
-### Aula 1 – App de Corridas & AWS (Regressão Linear + Planejamento de Capacidade)
+AULAS DE MACHINE LEARNING
+
+### Aula 01 - Trocador de calor - Análise e Revisão do exercício do prof. Julles
+
+### Aula 02 – App de Corridas & AWS (Regressão Linear + Planejamento de Capacidade)
 
 Objetivos:
 - Relembrar regressão linear (modelo, β₀, β₁).
@@ -42,10 +46,24 @@ Objetivos:
 - Usar o modelo para estimar quando precisamos escalar servidores (AWS Auto Scaling).
 
 Notebook:
-[▶ Abrir Aula 1 – App de Corridas no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula01_app_corridas.ipynb)
+[▶ Abrir Aula 02 – App de Corridas no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula01_app_corridas.ipynb)
+
+## Aula 03 – Classificação de Crédito com Regressão Logística
+
+**Objetivos da aula:**
+- Entender a diferença entre regressão e classificação.
+- Introduzir regressão logística como modelo de classificação binária.
+- Treinar um modelo para aprovar/recusar crédito com base em dados de clientes.
+- Avaliar o modelo com accuracy e matriz de confusão, discutindo impacto de erros no negócio.
+
+[▶ Abrir Aula 03 – Regressão Logística (Crédito) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Práticas_Machine_Learning/aulas/aula03_regressao_logistica_credito.ipynb)
 
 
-### Aula 2 – Perceptron (Primeiro neurônio artificial)
+
+AULAS DE RERDES NEURAIS
+
+
+### Aula 03 – Perceptron (Primeiro neurônio artificial)
 
 Objetivos:
 - Implementar um **perceptron** do zero em Python.
@@ -61,6 +79,8 @@ Notebook:
 [▶ Abrir Aula 2 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
 
 ### (Adicionar conforme as aulas forem sendo criadas)
+
+
 
 - Aula 3 – MLP e Backpropagation  
 - Aula 4 – TensorFlow: primeira rede neural com Keras  
