@@ -56,7 +56,9 @@ Notebook:
   - Treinar um modelo para aprovar/recusar crédito com base em dados de clientes.
   - Avaliar o modelo com accuracy e matriz de confusão, discutindo impacto de erros no negócio.
 
-  [▶ Abrir Aula 03 – Regressão Logística (Crédito) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Práticas_Machine_Learning/aulas/aula03_regressao_logistica_credito.ipynb)
+  [▶ Abrir Aula 03 – Regressão Logística (Crédito) no Colab]([https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Práticas_Machine_Learning/aulas/aula03_regressao_logistica_credito.ipynb])
+
+ 
 
 AULAS DE RERDES NEURAIS
 
