@@ -46,7 +46,10 @@ Objetivos:
 - Usar o modelo para estimar quando precisamos escalar servidores (AWS Auto Scaling).
 
 Notebook:
-[▶ Abrir Aula 02 – App de Corridas no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_MAchine_Learning/aula01_app_corridas.ipynb)
+[▶ Abrir Aula 02 – App de Corridas no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/Praticas_MAchine_Learning/aula01_app_corridas.ipynb)
+
+
+
 
 ## Aula 03 – Classificação de Crédito com Regressão Logística
 
