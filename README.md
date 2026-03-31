@@ -107,7 +107,7 @@ Possíveis extensões do modelo e próximos algoritmos a testar em um cenário r
 
 Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
 
-[![Abrir Aula K-NN](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula04_knn_varejo_sp.ipynb))
+[![Abrir Aula K-NN](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_KNN.ipynb))
 
 
 - Aula 3 – MLP e Backpropagation  
