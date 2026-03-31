@@ -79,10 +79,35 @@ Objetivos:
 
 Notebook:
 
-[▶ Abrir Aula 2 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
+[▶ Abrir Aula 3 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
 
 ### (Adicionar conforme as aulas forem sendo criadas)
 
+### Aula 04 - Algoritmo K-NN (
+
+Objetivos da aula
+- Introduzir o algoritmo K-Nearest Neighbors (K-NN) como técnica de classificação supervisionada.
+- Trabalhar o fluxo completo de um mini-projeto de Machine Learning em contexto de varejo em São Paulo (cliente fiel vs. ocasional).
+
+- Praticar:
+Carregamento de dados a partir de um arquivo CSV.
+Análise Exploratória de Dados (EDA) básica com pandas, matplotlib e seaborn.
+Separação de features e variável alvo; divisão em treino e teste.
+Normalização de dados numéricos com StandardScaler e discussão de por que isso é importante para K-NN.
+Treinamento, predição e avaliação de um modelo KNeighborsClassifier usando acurácia, relatório de classificação e matriz de confusão.
+Explorar o impacto dos hiperparâmetros de K-NN:
+Variação do valor de K (número de vizinhos) e análise da curva acurácia x K.
+Comparação entre weights="uniform" e weights="distance".
+Visualizar e interpretar a fronteira de decisão em 2D (idade x gasto mensal) para entender melhor o comportamento do modelo.
+Estimular o raciocínio crítico sobre:
+Limitações do K-NN em bases grandes e com muitas features.
+Possíveis extensões do modelo e próximos algoritmos a testar em um cenário real de varejo.
+
+## Executar no Google Colab
+
+Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
+
+[![Abrir Aula K-NN](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula04_knn_varejo_sp.ipynb))
 
 
 - Aula 3 – MLP e Backpropagation  
