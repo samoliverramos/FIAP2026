@@ -61,29 +61,7 @@ Notebook:
 
   [▶ Abrir Aula 03 – Regressão Logística (Crédito) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_Machine_Learning/aula03_regressao_logistica_credito.ipynb)
 
- 
-
-AULAS DE RERDES NEURAIS
-
-
-### Aula 03 – Perceptron (Primeiro neurônio artificial)
-
-Objetivos:
-- Implementar um **perceptron** do zero em Python.
-- Entender:
-  - inputs, pesos, bias,
-  - soma ponderada (`w·x + b`),
-  - função de ativação (degrau),
-  - ajuste de pesos ao longo das épocas.
-- Visualizar a **fronteira de decisão** para um problema simples de classificação (comprou / não comprou).
-
-Notebook:
-
-[▶ Abrir Aula 3 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
-
-### (Adicionar conforme as aulas forem sendo criadas)
-
-### Aula 04 - Algoritmo K-NN (
+ ### Aula 04 - Algoritmo K-NN (
 
 Objetivos da aula
 - Introduzir o algoritmo K-Nearest Neighbors (K-NN) como técnica de classificação supervisionada.
@@ -110,6 +88,28 @@ Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
 [![Abrir Aula K-NN no Colab]()
 
 https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Pr%C3%A1ticas_Redes_Neurais/Aula04_KNN.ipynb
+
+AULAS DE RERDES NEURAIS
+
+
+### Aula 03 – Perceptron (Primeiro neurônio artificial)
+
+Objetivos:
+- Implementar um **perceptron** do zero em Python.
+- Entender:
+  - inputs, pesos, bias,
+  - soma ponderada (`w·x + b`),
+  - função de ativação (degrau),
+  - ajuste de pesos ao longo das épocas.
+- Visualizar a **fronteira de decisão** para um problema simples de classificação (comprou / não comprou).
+
+Notebook:
+
+[▶ Abrir Aula 3 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
+
+### (Adicionar conforme as aulas forem sendo criadas)
+
+
 
 - Aula 3 – MLP e Backpropagation  
 - Aula 4 – TensorFlow: primeira rede neural com Keras  
