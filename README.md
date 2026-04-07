@@ -89,6 +89,8 @@ Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
 
 https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Pr%C3%A1ticas_Redes_Neurais/Aula04_KNN.ipynb
 
+## ---------------------------------------------------------------
+
 AULAS DE RERDES NEURAIS
 
 ### Aula 01 – Aula Teórica: Revisão da Aula 0 + O que é inteligência Artificial
@@ -118,7 +120,10 @@ Objetivos de aprendizado no notebook:
 - Entender a relação: número de neurônios / camadas / epochs ↔ desempenho.
 - Ver na prática feedforward, erro, backprop acontecendo “por trás” da API do Keras.
 
-  
+[▶ Abrir Aula 4 – MLP com Keras no Colab](https://colab.research.google.com/github.com/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
+)
+
+  https://github.com/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
 
 ### (Adicionar conforme as aulas forem sendo criadas)
 
