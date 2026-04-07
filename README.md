@@ -123,7 +123,7 @@ Objetivos de aprendizado no notebook:
 [▶ Abrir Aula 4 – MLP com Keras no Colab](https://colab.research.google.com/github.com/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
 )
 
-  https://github.com/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
+ https://github.com/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
 
 ### (Adicionar conforme as aulas forem sendo criadas)
 
