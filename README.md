@@ -109,6 +109,17 @@ Notebook:
 
 [▶ Abrir Aula 3 – Perceptron (Primeiro neurônio) no Colab](https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/aulas/aula02_perceptron.ipynb)
 
+
+
+### Aula 04 – MLP em Keras para prever se o cliente compra
+
+Objetivos de aprendizado no notebook:
+- Implementar uma MLP simples com Keras (TensorFlow).
+- Entender a relação: número de neurônios / camadas / epochs ↔ desempenho.
+- Ver na prática feedforward, erro, backprop acontecendo “por trás” da API do Keras.
+
+  
+
 ### (Adicionar conforme as aulas forem sendo criadas)
 
 
