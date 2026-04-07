@@ -91,6 +91,8 @@ https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Pr%C3
 
 AULAS DE RERDES NEURAIS
 
+### Aula 01 – Aula Teórica: Revisão da Aula 0 + O que é inteligência Artificial
+### Aula 02 – Aula Teórica: Entendendo termos e conceitos sobre RN, DL e Algoritmos Genéticos
 
 ### Aula 03 – Perceptron (Primeiro neurônio artificial)
 
