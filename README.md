@@ -126,14 +126,19 @@ Objetivos de aprendizado no notebook:
 https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula04_MLP_em_Keras.ipynb
 
       ]
-### (Adicionar conforme as aulas forem sendo criadas)
+Aula 5 – MLP em Keras: Experimentos, LOSS, Baseline e Overfitting
+Objetivos de aprendizado
+Revisar a MLP construída na aula passada (Aula 4).
+Entender, na prática, o que é LOSS (função de perda) e por que ela é importante.
+Entender o conceito de modelo baseline.
+Observar como neurônios, camadas e epochs afetam treino e validação.
+Identificar sinais de underfitting e overfitting nos gráficos.
+
+https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_Redes_Neurais/Aula05_MLP_Experimentos1.ipynb#scrollTo=b8b13461
 
 
 
-- Aula 3 – MLP e Backpropagation  
-- Aula 4 – TensorFlow: primeira rede neural com Keras  
-- Aula 5 – Redes recorrentes e LSTM (séries temporais)  
-- …
+
 
 ---
 
