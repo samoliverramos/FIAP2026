@@ -85,9 +85,20 @@ Possíveis extensões do modelo e próximos algoritmos a testar em um cenário r
 
 Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
 
-[![Abrir Aula K-NN no Colab]()
-
 https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Pr%C3%A1ticas_Redes_Neurais/Aula04_KNN.ipynb
+
+
+# Aula 05 - Árvores de Decisão: Churn de Clientes de Internet
+
+## Objetivos de Aprendizado
+
+- Entender árvores de decisão como modelo de classificação.
+- Treinar um modelo para prever **churn** (cancelamento de plano) de clientes.
+- Interpretar as regras aprendidas pela árvore (modelo interpretável).
+- Discutir **overfitting** e hiperparâmetros básicos (`max_depth`).
+- (Opcional) Fazer um teaser de **Random Forest** como conjunto de árvores
+
+https://colab.research.google.com/github/samoliverramos/FIAP2026/blob/main/Praticas_Machine_Learning/Aula05_ML_Arvores_Decisao.ipynb#scrollTo=95a6874e
 
 ## ---------------------------------------------------------------
 
